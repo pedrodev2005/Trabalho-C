@@ -19,7 +19,7 @@ int main() {
             countj++;
         } else if (idades[i] >= 35 && idades[i] < 65) {
             counta++;
-        } else if (idades[i] >= 65 && idades[i] <= 80) {
+        } else if (idades[i] >= 65 && idades[i]) {
             counti++;
         
         }

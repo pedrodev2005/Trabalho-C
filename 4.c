@@ -11,7 +11,7 @@ int main() {
         scanf("%d", &vetor[i]);
     }
 
-    printf("Digite o valor de referencia:\n");
+    printf("Digite o valor de referencia:");
     scanf("%d", &referencia);
 
     printf("Valores maiores que o valor de referencia %d:\n", referencia);
